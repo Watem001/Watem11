@@ -1,0 +1,7 @@
+{
+  "name": "Watem FX | Institutional Trading",
+  "description": "Intelligent Market Terminal with AI-powered Forex signals, learning academy, and trading simulator.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
